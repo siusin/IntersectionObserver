@@ -11,5 +11,5 @@ script:
 - bash "./deploy.sh"
 env:
   global:
-  - ENCRYPTION_LABEL: "781c04ca6946"
-  - COMMIT_AUTHOR_EMAIL: "plh+deploy@w3.org"
+  - ENCRYPTION_LABEL: "e666d23be66a"
+  - COMMIT_AUTHOR_EMAIL: "xiaoqian+deploy@w3.org"
